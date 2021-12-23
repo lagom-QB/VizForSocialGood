@@ -1,0 +1,214 @@
+,ID,What country do you live in?,What industry do you work in?,Which option most closely relates to your job function?
+0,91,Australia,Marketing,Analyst
+1,94,Australia,Education,Other
+2,119,Australia,Other,Data Scientist
+3,145,Australia,IT and Software,Analyst
+4,148,Australia,IT and Software,Analyst
+5,174,Australia,IT and Software,Analyst
+6,215,Australia,Retail,Analyst
+7,54,Belgium,Non-profit,Analyst
+8,3,Canada,Marketing,Project or Program Manager
+9,16,Canada,Other,Analyst
+10,41,Canada,Retired or unemployed,Analyst
+11,42,Canada,Financial Services,Analyst
+12,49,Canada,Automotive,Analyst
+13,51,Canada,Financial Services,"People Leader (Manager, Director, VP, etc)"
+14,70,Canada,Financial Services,Designer
+15,73,Canada,Government and Public Administration,Analyst
+16,96,Canada,Financial Services,Analyst
+17,108,Canada,Healthcare,Developer
+18,109,Canada,IT and Software,"People Leader (Manager, Director, VP, etc)"
+19,129,Canada,IT and Software,Designer
+20,137,Canada,Consulting,Consultant
+21,146,Canada,Non-profit,Project or Program Manager
+22,147,Canada,Financial Services,"People Leader (Manager, Director, VP, etc)"
+23,151,Canada,IT and Software,Engineer
+24,154,Canada,Consulting,Consultant
+25,156,Canada,Consulting,Consultant
+26,164,Canada,IT and Software,Consultant
+27,168,Canada,IT and Software,Analyst
+28,210,Canada,IT and Software,Engineer
+29,23,China,Financial Services,Data Scientist
+30,21,Cyprus,IT and Software,Consultant
+31,30,Denmark,Government and Public Administration,Analyst
+32,124,Denmark,Consulting,Consultant
+33,37,Finland,Education,Designer
+34,84,Finland,Consulting,Consultant
+35,14,France,IT and Software,Data Scientist
+36,18,France,Consulting,Consultant
+37,44,France,IT and Software,Consultant
+38,209,France,Consulting,Developer
+39,7,Germany,Automotive,Analyst
+40,101,Germany,IT and Software,"People Leader (Manager, Director, VP, etc)"
+41,102,Germany,Consulting,Analyst
+42,106,Germany,Consulting,Analyst
+43,130,Germany,IT and Software,Data Scientist
+44,135,Germany,Education,Researcher
+45,196,Germany,Education,Researcher
+46,201,Germany,Pharmaceuticals,Analyst
+47,34,Ghana,Other,Analyst
+48,35,Hungary,IT and Software,Developer
+49,1,India,Other,Other
+50,5,India,IT and Software,Analyst
+51,17,India,IT and Software,Developer
+52,19,India,Financial Services,Analyst
+53,26,India,IT and Software,Developer
+54,31,India,Education,Developer
+55,61,India,Consulting,Analyst
+56,76,India,Retail,Analyst
+57,78,India,Retired or unemployed,Engineer
+58,83,India,Education,Analyst
+59,110,India,Consulting,Data Scientist
+60,134,India,Other,Project or Program Manager
+61,188,India,Other,Other
+62,193,India,Consulting,Consultant
+63,212,India,IT and Software,Project or Program Manager
+64,219,India,Consulting,Analyst
+65,107,Indonesia,IT and Software,Analyst
+66,186,Indonesia,IT and Software,Sales
+67,9,Ireland,Financial Services,Administrative staff
+68,99,Ireland,Consulting,Educator/Teacher
+69,133,Italy,Consulting,Consultant
+70,138,Italy,Consulting,Data Scientist
+71,100,"Korea, South",Government and Public Administration,Analyst
+72,191,Kuwait,Retail,Data Scientist
+73,222,Luxembourg,Education,Researcher
+74,176,Mexico,Government and Public Administration,Developer
+75,38,Netherlands,Automotive,Data Scientist
+76,121,Netherlands,Government and Public Administration,Analyst
+77,197,Netherlands,Consulting,Analyst
+78,200,Netherlands,Marketing,Data Scientist
+79,204,Netherlands,Consulting,Consultant
+80,217,Netherlands,Automotive,Designer
+81,97,New Zealand,Consulting,Data Scientist
+82,118,New Zealand,Retired or unemployed,Other
+83,189,Peru,Other,Analyst
+84,10,Philippines,IT and Software,Analyst
+85,116,Philippines,Education,Educator/Teacher
+86,120,Philippines,Other,Other
+87,173,Philippines,IT and Software,Project or Program Manager
+88,190,Philippines,IT and Software,Developer
+89,55,Poland,Healthcare,Researcher
+90,170,Poland,Non-profit,Project or Program Manager
+91,211,Poland,IT and Software,Analyst
+92,220,Poland,IT and Software,Analyst
+93,12,Qatar,IT and Software,"People Leader (Manager, Director, VP, etc)"
+94,13,Romania,IT and Software,Data Scientist
+95,15,Russia,Retired or unemployed,Analyst
+96,58,Singapore,Healthcare,Analyst
+97,187,Singapore,IT and Software,Data Scientist
+98,195,South Africa,Financial Services,Consultant
+99,4,Spain,Retired or unemployed,Analyst
+100,36,Spain,Education,Educator/Teacher
+101,105,Spain,IT and Software,Project or Program Manager
+102,172,Spain,Education,Analyst
+103,149,Sweden,IT and Software,Data Scientist
+104,6,Switzerland,Other,Designer
+105,29,Switzerland,IT and Software,Consultant
+106,122,Switzerland,Other,Researcher
+107,216,Syria,IT and Software,Analyst
+108,213,Thailand,Non-profit,Analyst
+109,180,Uganda,IT and Software,Analyst
+110,2,United Kingdom,Healthcare,Designer
+111,11,United Kingdom,Education,Analyst
+112,20,United Kingdom,Healthcare,"People Leader (Manager, Director, VP, etc)"
+113,22,United Kingdom,IT and Software,Engineer
+114,25,United Kingdom,Other,Analyst
+115,27,United Kingdom,Financial Services,Data Scientist
+116,32,United Kingdom,Healthcare,Project or Program Manager
+117,80,United Kingdom,Financial Services,"People Leader (Manager, Director, VP, etc)"
+118,104,United Kingdom,IT and Software,Engineer
+119,112,United Kingdom,IT and Software,Other
+120,123,United Kingdom,Government and Public Administration,Analyst
+121,125,United Kingdom,Consulting,Consultant
+122,155,United Kingdom,Non-profit,Analyst
+123,160,United Kingdom,Pharmaceuticals,Analyst
+124,199,United Kingdom,Consulting,Consultant
+125,202,United Kingdom,Government and Public Administration,Analyst
+126,214,United Kingdom,Non-profit,"People Leader (Manager, Director, VP, etc)"
+127,223,United Kingdom,Consulting,Consultant
+128,8,United States,Government and Public Administration,"People Leader (Manager, Director, VP, etc)"
+129,33,United States,Other,Data Scientist
+130,40,United States,Education,Analyst
+131,43,United States,IT and Software,Analyst
+132,45,United States,Consulting,Project or Program Manager
+133,46,United States,Financial Services,Data Scientist
+134,47,United States,Retail,Other
+135,48,United States,Consulting,Designer
+136,50,United States,IT and Software,Developer
+137,52,United States,IT and Software,Analyst
+138,53,United States,Healthcare,"People Leader (Manager, Director, VP, etc)"
+139,56,United States,Automotive,Designer
+140,57,United States,IT and Software,"People Leader (Manager, Director, VP, etc)"
+141,60,United States,Healthcare,Analyst
+142,62,United States,Financial Services,Developer
+143,63,United States,Healthcare,Analyst
+144,64,United States,IT and Software,Developer
+145,65,United States,Education,Educator/Teacher
+146,66,United States,IT and Software,Analyst
+147,67,United States,Non-profit,Analyst
+148,68,United States,Non-profit,Data Scientist
+149,69,United States,Marketing,Analyst
+150,71,United States,Financial Services,Analyst
+151,72,United States,Pharmaceuticals,Designer
+152,74,United States,IT and Software,Analyst
+153,75,United States,IT and Software,Analyst
+154,77,United States,Trades and Personal Services,Analyst
+155,79,United States,Other,Analyst
+156,81,United States,Non-profit,Project or Program Manager
+157,82,United States,IT and Software,Analyst
+158,85,United States,Healthcare,Data Scientist
+159,86,United States,IT and Software,Analyst
+160,88,United States,Education,Researcher
+161,89,United States,IT and Software,"People Leader (Manager, Director, VP, etc)"
+162,90,United States,Marketing,Project or Program Manager
+163,93,United States,Consulting,"People Leader (Manager, Director, VP, etc)"
+164,95,United States,Education,Analyst
+165,98,United States,Consulting,Consultant
+166,111,United States,Other,Consultant
+167,113,United States,Consulting,Analyst
+168,114,United States,Healthcare,Data Scientist
+169,115,United States,Healthcare,Analyst
+170,117,United States,Other,"People Leader (Manager, Director, VP, etc)"
+171,126,United States,IT and Software,Administrative staff
+172,127,United States,IT and Software,Analyst
+173,128,United States,IT and Software,Analyst
+174,131,United States,IT and Software,Analyst
+175,132,United States,IT and Software,Analyst
+176,136,United States,Retired or unemployed,Other
+177,140,United States,Retired or unemployed,Developer
+178,141,United States,Education,Data Scientist
+179,142,United States,IT and Software,Data Scientist
+180,143,United States,Financial Services,Data Scientist
+181,144,United States,Consulting,Analyst
+182,150,United States,Marketing,Analyst
+183,152,United States,Non-profit,Analyst
+184,153,United States,IT and Software,Project or Program Manager
+185,157,United States,Consulting,Analyst
+186,158,United States,Consulting,Consultant
+187,159,United States,Other,Consultant
+188,161,United States,IT and Software,Data Scientist
+189,162,United States,Consulting,Data Scientist
+190,163,United States,Healthcare,Analyst
+191,165,United States,other,Other
+192,166,United States,Education,Data Scientist
+193,167,United States,Consulting,Data Scientist
+194,169,United States,Education,Analyst
+195,171,United States,Healthcare,Data Scientist
+196,175,United States,Other,Consultant
+197,177,United States,IT and Software,Analyst
+198,181,United States,Non-profit,Researcher
+199,182,United States,IT and Software,Analyst
+200,183,United States,IT and Software,Consultant
+201,184,United States,IT and Software,Data Scientist
+202,185,United States,other,Engineer
+203,192,United States,Financial Services,"People Leader (Manager, Director, VP, etc)"
+204,194,United States,Financial Services,Data Scientist
+205,205,United States,Healthcare,Analyst
+206,206,United States,IT and Software,Analyst
+207,207,United States,Education,Designer
+208,208,United States,Legal Services,Developer
+209,218,United States,IT and Software,Consultant
+210,221,United States,Marketing,Analyst
+211,224,United States,Other,Other
+212,28,Vietnam,Government and Public Administration,Analyst
