@@ -1,5 +1,3 @@
-# VizForSocialGood
-
 The goal of this project was to Visualise a subset of data 
 collected during the Viz For Social Good community poll of November 2021.
 
