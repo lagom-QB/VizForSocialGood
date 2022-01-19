@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# VizForSocialGood
 
-You can use the [editor on GitHub](https://github.com/lagom-QB/VizForSocialGood/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The goal of this project was to Visualise a subset of data 
+collected during the Viz For Social Good community poll of November 2021.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A key success factor in VFSG engagement’s is how well the volunteer 
+community understands and connects with the cause being partnered with. 
+To lay a strong foundation for this, the goal is to analyze the community 
+base and identify where they should focus efforts for recruiting as well as 
+what non-profits would be the strongest to partner with going forward.
 
-### Markdown
+## Tools
+- Exccel
+- Python 
+- Pandas  
+- Physical Materials  
+- Figma
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Results 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lagom-QB/VizForSocialGood/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/251ea2133736647.61c4663da7eb8.jpg)
