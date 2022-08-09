@@ -10,7 +10,7 @@ base and identify where they should focus efforts for recruiting as well as
 what non-profits would be the strongest to partner with going forward.
 
 ## Tools
-- Exccel
+- Excel
 - Python 
 - Pandas  
 - Physical Materials  
